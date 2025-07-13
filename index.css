@@ -142,7 +142,9 @@ body{
     flex-direction: row-reverse;
   }
 }
-
+.original-segunda-seccion__contenedor > .titulo-secundario.original-segunda-seccion__titulo{
+  text-align: center;
+}
 .original-segunda-seccion__parrafo{
   color: #FAFAFA;
   width: 100%;
